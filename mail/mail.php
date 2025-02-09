@@ -9,7 +9,7 @@ Email: ".$email."
 Message: ".$message."
 ";
 
-$to = "luitel.nawaraj12300@gmail.com";
+$to = "johndulal32@gmail.com";
 $subject = "New Message";
 $headers = "From: " . $email . "\r\n" .
            "Reply-To: " . $email . "\r\n" .
